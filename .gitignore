@@ -1,0 +1,6 @@
+.terraform
+.terraform.lock.hcl
+vpc.tf.block
+subnet.tf.block
+terraform.tfstate
+terraform.tfstate.backup
